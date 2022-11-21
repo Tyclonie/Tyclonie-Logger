@@ -7,5 +7,5 @@ setup(
     description='A library designed to make logging easy. Well formatted and a lovely replacement to just print.',
     author='Tyclonie',
     license='MIT',
-    setup_requires=["colorama==0.4.6"]
+    install_requires=["colorama==0.4.6"]
 )

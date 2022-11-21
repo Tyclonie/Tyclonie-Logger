@@ -1,9 +1,11 @@
 import datetime
-from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style, init
 
+if __name__ != "__main__":
+    init()
 
 class TyclonieLogger:
-    def __init__(self, datetime_format="%Y/%m/%d @ %h:%m%s"):
+    def __init__(self, datetime_format="%Y/%m/%d @ %H:%M:%S"):
         self.datetime_format = datetime_format
 
     def get_datetime_formatted(self) -> str:
