@@ -4,7 +4,7 @@ from pathlib import Path
 setup(
     name='TyclonieLogger',
     packages=find_packages(),
-    version='0.1',
+    version='1.0',
     description='A library designed to make logging easy. Well formatted and a lovely replacement to just print.',
     author='Tyclonie',
     license='MIT',

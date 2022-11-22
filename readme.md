@@ -1,6 +1,6 @@
 # Tyclonie Logger
 
-Version: v1.0
+Version: 1.0
 <br>
 [GitHub](https://github.com/Tyclonie/Tyclonie-Logger)
 
@@ -48,6 +48,11 @@ TyclonieLogger instance was created. The use of this is for testing the format
 you provided.
 
 ### Examples
+
+Note: You may decide to use exact imports, using "**from tyclonielogger import 
+TyclonieLogger**" instead of using "**import tyclonielogger**", simply then just
+replace everywhere that says "**tyclonielogger.TyclonieLogger**" with 
+"**TyclonieLogger**", and it will have the same effect
 
 Using inheritance (Object Orientated Programming):
 <br>
