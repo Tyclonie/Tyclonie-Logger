@@ -13,11 +13,9 @@ Colorama (0.4.6) - pip install colorama==0.4.6
 
 ### Classes
 TyclonieLogger()
-<br> 
 - Arguments: datetime_format 
 (default value="%Y/%m/%d @ %H:%M:%S") - Uses python library datetime for 
 formatting [Datetime Documentation](https://docs.python.org/3/library/datetime.html)
-<br>
 - The TyclonieLogger class is what contains the functions and procedures required 
 to log using the program, the functions and methods will be called from an
 instance of the TyclonieLogger class
@@ -65,6 +63,3 @@ Using sequencing:
 Example output:
 <br>
 ![](https://raw.githubusercontent.com/Tyclonie/Tyclonie-Logger/main/examples/output_example.jpg)
-
-
-
