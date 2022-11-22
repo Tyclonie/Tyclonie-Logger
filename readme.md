@@ -3,6 +3,8 @@
 Version: 1.0
 <br>
 [GitHub](https://github.com/Tyclonie/Tyclonie-Logger)
+<br>
+pip install TyclonieLogger
 
 ## Documentation
 
