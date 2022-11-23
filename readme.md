@@ -1,6 +1,6 @@
 # Tyclonie Logger
 
-Version: 1.0
+Version: 2.0
 <br>
 [GitHub](https://github.com/Tyclonie/Tyclonie-Logger)
 <br>
