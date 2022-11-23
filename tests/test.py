@@ -2,7 +2,10 @@ from tyclonielogger import TyclonieLogger
 
 
 logger = TyclonieLogger()
-logger.log("hi")
+print(logger.show_foreground_colours())
+print(logger.show_background_colours())
+print(logger.show_styles())
+
 
 """
 
