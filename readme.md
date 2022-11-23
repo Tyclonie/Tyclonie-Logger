@@ -68,7 +68,7 @@ Example output:
 
 ### TyclonieLogger() Options
 
-# Notes
+#### Notes
 - For selectable forground colours output show_foreground_colours on a 
 TyclonieLogger instance
 - For selectable background colours output show_background_colours on a
@@ -78,7 +78,7 @@ TyclonieLogger instance
 - After outputtind the selectable styles, if its hard to see text
 you can highlight it in the terminal to make it easier to see
 
-# Options
+#### Options
 datetime_format="%Y/%m/%d @ %H:%M:%S"
 <br>
 datetime_text_divider=" | "
